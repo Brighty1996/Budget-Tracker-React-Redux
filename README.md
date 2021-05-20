@@ -30,7 +30,7 @@ Step 6: Push the changes in your local repository to GitHub.
 
 Discussed topics:
 
-ReactJS:
+`ReactJS:
 	JSX (JavaScript eXtention)
 	Component
 		Class component
@@ -44,12 +44,12 @@ ReactJS:
 		Redux
 			Connect API
 			Redux-thunk
-			Redux Sage
+			Redux Sage`
 			
 	and 
 	
 ES6:
-	Arrow function / Lambda expression
+	`Arrow function / Lambda expression
 	Promise
 	Array prototype functions
 		map
@@ -70,7 +70,7 @@ ES6:
 	Template String / Literals
 	Bind vs call
 	closure
-	Es6 Module
+	Es6 Module`
 	
 ### Day 2: (20/05/2021)
 
