@@ -1,8 +1,8 @@
 # Project: Budget-Tracker using React redux
 
-# 1. Create a new repository on GitHub.
+### 1. Create a new repository on GitHub.
 
-# 2. Steps to follow to upload project into git:
+### 2. Steps to follow to upload project into git:
 
 Step 1: Initialize the local directory as a Git repository.
 		`git init`
