@@ -30,7 +30,8 @@ Step 6: Push the changes in your local repository to GitHub.
 
 Discussed topics:
 
-`ReactJS:
+ReactJS:
+
 	JSX (JavaScript eXtention) 
 	
 	Component
@@ -62,6 +63,7 @@ Discussed topics:
 
 	
 ES6:
+
 	Arrow function / Lambda expression
 	
 	Promise
