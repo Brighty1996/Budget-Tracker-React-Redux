@@ -31,46 +31,76 @@ Step 6: Push the changes in your local repository to GitHub.
 Discussed topics:
 
 `ReactJS:
-	JSX (JavaScript eXtention)
+	JSX (JavaScript eXtention) 
+	
 	Component
+	
 		Class component
+		
 		Function component
+		
 		High Order component
+		
 	State and Properties
+	
 	Lifecycle methods
+	
 	Lifecycle Hooks
+	
 	Axios
+	
 	Central state Management
+	
 		Redux
+
 			Connect API
-			Redux-thunk
-			Redux Sage`
 			
-	and 
+			Redux-thunk
+			
+			Redux Sage
+			
+
 	
 ES6:
-	`Arrow function / Lambda expression
+	Arrow function / Lambda expression
+	
 	Promise
+	
 	Array prototype functions
+	
 		map
+		
 		reduce
+		
 		find
+		
 		findIndex
+		
 		forEach
+		
 		concat
+		
 		splice
+		
 		slice
+		
 	Spread operator ...
+	
 	Destructured assignment
+	
 		let empId = emp.empId;
 		let ename = emp.ename;
 		let sal = emp.sal;
 		
 		let {empId, ename, sal} = emp;
+		
 	Template String / Literals
+	
 	Bind vs call
+	
 	closure
-	Es6 Module`
+	
+	Es6 Module
 	
 ### Day 2: (20/05/2021)
 
