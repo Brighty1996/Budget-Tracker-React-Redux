@@ -44,6 +44,8 @@ const load = (tnxs) =>{
 
 
 
+
+
 const mapStateToProps = (state) => ({
     tnxs: state.tnxs
 });
